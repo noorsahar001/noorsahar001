@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is NOOR SAHAR and I'm a Developer, from Pakistan</p>
+<p align="left">My name is NOOR SAHAR and I'm a Web Developer, from Pakistan</p>
 
 ###
 
