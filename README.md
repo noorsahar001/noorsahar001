@@ -2,6 +2,26 @@
 
 ###
 
+<p align="left">My name is NOOR SAHAR and I'm a Developer, from Pakistan</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">💻 I'm a passionate <b>Developer</b> from Pakistan<br><br>
+• HTML, JavaScript, TypeScript <br>
+• Next.js (Frontend Development) <br>
+• Python & Agentic AI <br>
+• AI Web Development & Prompt Engineering <br>
+• Docker & Kubernetes <br><br>
+
+🎯 I enjoy building modern web apps and exploring AI-powered solutions.<br>
+🌱 Currently learning and improving my skills in advanced AI and cloud technologies.
+</p>
+###
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
