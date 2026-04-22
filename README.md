@@ -76,11 +76,11 @@
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
   </a>
 
-   <a href="https://https://whatsapp.com/channel/0029VbC1pRDFMqrXQIkIDd3c">
+   <a href="https://whatsapp.com/channel/0029VbC1pRDFMqrXQIkIDd3c">
     <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp" />
   </a>
 
-  <a href="https://https://www.instagram.com/noorsahar_webdeveloper/?hl=en">
+  <a href="https://www.instagram.com/noorsahar_webdeveloper/?hl=en">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" />
   </a>
 
